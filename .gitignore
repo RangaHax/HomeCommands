@@ -1,0 +1,11 @@
+# Directories #
+/bin/
+/.settings/
+
+# Package Files #
+*.jar
+
+# Other Files #
+*.class
+.classpath
+.project
