@@ -1,0 +1,3 @@
+name: HomeCommands
+main: andeedee.homecommands.HomePlugin
+version: 1
